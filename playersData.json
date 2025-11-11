@@ -1,6 +1,6 @@
 [
   {
-    "player_id": 1,
+    "id": 1,
     "name": "Lionel Messi",
     "nationality": "Argentina",
     "club": "Inter Miami",
@@ -13,7 +13,7 @@
     }
   },
   {
-    "player_id": 2,
+    "id": 2,
     "name": "Cristiano Ronaldo",
     "nationality": "Portugal",
     "club": "Al-Nassr",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "player_id": 3,
+    "id": 3,
     "name": "Kevin De Bruyne",
     "nationality": "Belgium",
     "club": "Manchester City",
@@ -39,7 +39,7 @@
     }
   },
   {
-    "player_id": 4,
+    "id": 4,
     "name": "Virgil van Dijk",
     "nationality": "Netherlands",
     "club": "Liverpool",
@@ -52,7 +52,7 @@
     }
   },
   {
-    "player_id": 5,
+    "id": 5,
     "name": "Kylian Mbappé",
     "nationality": "France",
     "club": "Real Madrid",
@@ -65,7 +65,7 @@
     }
   },
   {
-    "player_id": 6,
+    "id": 6,
     "name": "Manuel Neuer",
     "nationality": "Germany",
     "club": "Bayern Munich",
@@ -78,7 +78,7 @@
     }
   },
   {
-    "player_id": 7,
+    "id": 7,
     "name": "Neymar Jr.",
     "nationality": "Brazil",
     "club": "Al-Hilal",
@@ -91,7 +91,7 @@
     }
   },
   {
-    "player_id": 8,
+    "id": 8,
     "name": "Erling Haaland",
     "nationality": "Norway",
     "club": "Manchester City",
@@ -104,7 +104,7 @@
     }
   },
   {
-    "player_id": 9,
+    "id": 9,
     "name": "Luka Modrić",
     "nationality": "Croatia",
     "club": "Real Madrid",
@@ -117,7 +117,7 @@
     }
   },
   {
-    "player_id": 10,
+    "id": 10,
     "name": "Trent Alexander-Arnold",
     "nationality": "England",
     "club": "Liverpool",
