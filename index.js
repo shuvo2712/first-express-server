@@ -1,4 +1,7 @@
-import express from "express";
+const express = require("express");
+// import express from "express";
+const players = require("./playersData.json");
+// import data from "./data.json";
 const app = express();
 const port = 3000;
 
@@ -7,7 +10,14 @@ app.get("/", (req, res) => {
 });
 
 app.get("/home", (req, res) => {
-  res.send("This is Home");
+  res.send("This is Homeeeeeee");
+});
+
+app.get("/players/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    console.log('player : ', id);
+    const player = players.find(p => p.player_id === id) || {};
+    res.send(player);
 });
 
 app.listen(port, () => {

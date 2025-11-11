@@ -1,0 +1,132 @@
+[
+  {
+    "player_id": 1,
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "club": "Inter Miami",
+    "position": "Forward",
+    "age": 37,
+    "stats": {
+      "goals": 12,
+      "assists": 9,
+      "appearances": 15
+    }
+  },
+  {
+    "player_id": 2,
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "club": "Al-Nassr",
+    "position": "Forward",
+    "age": 39,
+    "stats": {
+      "goals": 20,
+      "assists": 5,
+      "appearances": 22
+    }
+  },
+  {
+    "player_id": 3,
+    "name": "Kevin De Bruyne",
+    "nationality": "Belgium",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "age": 33,
+    "stats": {
+      "goals": 4,
+      "assists": 15,
+      "appearances": 18
+    }
+  },
+  {
+    "player_id": 4,
+    "name": "Virgil van Dijk",
+    "nationality": "Netherlands",
+    "club": "Liverpool",
+    "position": "Defender",
+    "age": 33,
+    "stats": {
+      "tackles": 45,
+      "interceptions": 32,
+      "clean_sheets": 10
+    }
+  },
+  {
+    "player_id": 5,
+    "name": "Kylian Mbappé",
+    "nationality": "France",
+    "club": "Real Madrid",
+    "position": "Forward",
+    "age": 25,
+    "stats": {
+      "goals": 25,
+      "assists": 10,
+      "appearances": 28
+    }
+  },
+  {
+    "player_id": 6,
+    "name": "Manuel Neuer",
+    "nationality": "Germany",
+    "club": "Bayern Munich",
+    "position": "Goalkeeper",
+    "age": 38,
+    "stats": {
+      "saves": 78,
+      "clean_sheets": 12,
+      "appearances": 26
+    }
+  },
+  {
+    "player_id": 7,
+    "name": "Neymar Jr.",
+    "nationality": "Brazil",
+    "club": "Al-Hilal",
+    "position": "Forward",
+    "age": 32,
+    "stats": {
+      "goals": 8,
+      "assists": 8,
+      "appearances": 14
+    }
+  },
+  {
+    "player_id": 8,
+    "name": "Erling Haaland",
+    "nationality": "Norway",
+    "club": "Manchester City",
+    "position": "Forward",
+    "age": 24,
+    "stats": {
+      "goals": 30,
+      "assists": 6,
+      "appearances": 25
+    }
+  },
+  {
+    "player_id": 9,
+    "name": "Luka Modrić",
+    "nationality": "Croatia",
+    "club": "Real Madrid",
+    "position": "Midfielder",
+    "age": 39,
+    "stats": {
+      "goals": 3,
+      "assists": 7,
+      "appearances": 20
+    }
+  },
+  {
+    "player_id": 10,
+    "name": "Trent Alexander-Arnold",
+    "nationality": "England",
+    "club": "Liverpool",
+    "position": "Defender",
+    "age": 26,
+    "stats": {
+      "tackles": 35,
+      "interceptions": 25,
+      "assists": 12
+    }
+  }
+]
